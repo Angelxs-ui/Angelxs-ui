@@ -1,5 +1,5 @@
 <a href="TU_SITIO_WEB_AQUÍ" target="_blank">
-  <img src="URL_DE_LA_IMAGEN_QUE_SUBISTE" alt="Mi Banner" />
+  <img src="https://github.com/Angelxs-ui/Angelxs-ui/blob/main/My_banner.png" alt="Mi Banner" />
 </a>
 
 <h1 align="center">
