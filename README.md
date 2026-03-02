@@ -3,7 +3,7 @@
 </a>
 
 <h1 align="center">
-  ¡Hola! Soy [Tu Nombre].
+  ¡Hola! Soy Luis Angel Garcia Guerra.
   <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 </h1>
 
